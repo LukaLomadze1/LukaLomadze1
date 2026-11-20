@@ -10,8 +10,8 @@ The goal is to become a forward deployed engineer. Basically the person who goes
 - **[Morrow](https://github.com/LukaLomadze1/Morrow)** - booking system for a night train company that doesn't exist. you pick your berth on a floor plan of the actual train, and then you can log into the ops room and delay it
 - **[BrowserOS](https://github.com/LukaLomadze1/BrowserOS)** - a whole desktop inside a browser tab. windows, a file system, 15 apps, all plain js
 - **[loopback](https://github.com/LukaLomadze1/loopback)** - a game where time loops every 8 seconds and your past self comes back to get you. [play it](https://loopbackbyluka.netlify.app)
-- **[trading-journal](https://github.com/LukaLomadze1/trading-journal)** - for logging trades, with stats, charts and coin lists pulled from Binance. [demo](https://lukalomadze1.github.io/trading-journal/)
-- **[georgian-wordle](https://github.com/LukaLomadze1/georgian-wordle)** - wordle, but in georgian 🇬🇪 [play](https://lukalomadze1.github.io/georgian-wordle/)
+- **[trading-journal](https://github.com/LukaLomadze1/trading-journal)** - for logging trades, with stats, charts and coin lists pulled from Binance. [demo](https://tradingjournalbyluka.netlify.app)
+- **[georgian-wordle](https://github.com/LukaLomadze1/georgian-wordle)** - wordle, but in georgian 🇬🇪 [play](https://georgianwordlebyluka.netlify.app)
 
 some older ones too: [online uno](https://github.com/LukaLomadze1/online-uno) (1v1 over peerjs), a [typing test](https://github.com/LukaLomadze1/speedtyper) and a [youtube clone](https://github.com/LukaLomadze1/youtube-clone).
 
